@@ -14,4 +14,3 @@ Main goal is to generate funny captions. So we have used LSTM neural networks an
   ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/example%20caption%20generated%20by%20machine%20model%20for%20this%20cartoon.png)
   ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/examply%20funny%20caption%20generated.png)
   ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/Example%20caption%20generated.png)
-  ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/examply%20funny%20caption%20generated.png)
