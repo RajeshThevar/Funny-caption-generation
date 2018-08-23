@@ -8,12 +8,5 @@ Okay, this model is trained on both images and previous user submitted captions 
       
 Main goal is to generate funny captions. So we have used LSTM neural networks and built a language model to generate new funny (experimented) captions. 
       But we do have to generate sentences related to given cartoon image right? So we have used a merge architecture method to combine both extracted features, both neural networks in tandem, from dataset and get trained on. To later generate captions relevant (somewhat) to given cartoon image. Trained model will act like describing what is in the image. Can be used to such tasks as well. Here is a peek into the results anyway.
-      
-      ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/Architecture.png)
 
-      
-      ![alt text]()
-      ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/Example%20cation%20generated%20for%20this%20cartoon%20image.png)
-      ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/Example%20caption%20generated.png)
-      ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/example%20caption%20generated%20by%20machine%20model%20for%20this%20cartoon.png)
-      ![alt text](https://github.com/RajeshThevar/Funny-caption-generation/blob/master/examply%20funny%20caption%20generated.png)
+    
