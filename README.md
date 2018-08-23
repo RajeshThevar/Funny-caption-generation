@@ -9,4 +9,4 @@ Okay, this model is trained on both images and previous user submitted captions 
 Main goal is to generate funny captions. So we have used LSTM neural networks and built a language model to generate new funny (experimented) captions. 
       But we do have to generate sentences related to given cartoon image right? So we have used a merge architecture method to combine both extracted features, both neural networks in tandem, from dataset and get trained on. To later generate captions relevant (somewhat) to given cartoon image. Trained model will act like describing what is in the image. Can be used to such tasks as well. Here is a peek into the results anyway.
 
-    
+    ![alt text](https://github.com/RajeshThevar/Skin-Lesion-segmentation-iOS-app/blob/master/xcode.jpg)
